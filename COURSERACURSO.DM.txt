@@ -1,0 +1,51 @@
+==============================
+1. HTML
+Es el lenguaje de internet.
+Es un lenguaje de marcado de hipertexto.
+Originalmente para documentos cientificos.
+Y html es un documento que es visible como página web.
+HTML y HTML5 son distintas versiones, el último puede ser capaz de ver todas las páginas webs.
+==============================
+2. HTML
+Permite tener secciones en la página.
+Posee herramientas audio, img, vids.
+Facilita el desarrollo multiplataforma.
+
+No es obligatorio usar el !DOCTYPE html pero es común colocarlo ya indica que se trata de la última versión 5, y es una etiqueta que no se cierra.
+HEAD tiene:
+Títlos <tittle>
+Scripts <script>
+Estilo <style>
+Links de hojas de estilos <link>
+Información meta <meta>
+Soporte de navegador e inicializaciones <base>
+
+Diferencia vs. XHTML
+Son similares y tienen la misma sintaxis, es solo cuestión de elección de cada desarrollador.
+Todo en minúscula.
+Cierre de etiquetas.
+==============================
+3. HTML4 y XHTML1 soportes
+Si posee soporte para muchos navegadores ya que HTML5 además es compatibles con muchas API.
+==============================
+4. HTML Secuencias
+El scripting se usa para hacer más interactiva la página con la ayuda de JavaScript.
+Para los iframes o elementos embebidos se utiliza la propiedad sandbox para limitar sus permisos.
+Las API son Interfaces de Programación de Aplicaciones que permite el uso o llamados de diferentes aplicaciones.
+
+getElementByID('id')
+getElementByTagName('tag')
+open()
+write()
+close()
+==============================
+5. HTML compatilibidad con navegadores.
+No todos los navegadores son compatives con etiquetas. Para visualizar que se puede utilizar podemos entrar en la página caniuse.com
+==============================
+5. Puntos de vistas de desarrolladores
+1. Unos de los problemas significativos de los novatos es centrar los objetos y hacerlos responsivos, para aquello es necesario aprender flexbox.
+2. Para que nuestra web sea adapta a los navegadores antiguos idear soluciones como links para descargas en el caso de vídeo.
+3. Trabajar con Bootstrap es lo mejor que puedes hacer, ya que hay muchas cosas rápidas y bonitas que puedes hacer.
+
+
+
