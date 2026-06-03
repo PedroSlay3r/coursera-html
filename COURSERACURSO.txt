@@ -47,5 +47,30 @@ No todos los navegadores son compatives con etiquetas. Para visualizar que se pu
 2. Para que nuestra web sea adapta a los navegadores antiguos idear soluciones como links para descargas en el caso de vídeo.
 3. Trabajar con Bootstrap es lo mejor que puedes hacer, ya que hay muchas cosas rápidas y bonitas que puedes hacer.
 
+==============================
+<ul> para crear listas desordenadas.
+<ol> listas ordenadas.
+<li> sirve para ponerla información, y saldrá una viñeta -punto- o número si es ordenado (ol - número) o desordenado (ul - viñetas).
 
+<br> para realizar un salto de línea, como /ln de java.
+
+<table> sirve para crear una tabla, en el cual cada fila se definen con <th>.
+Mientras que la etiqueta <td> sirve para los encabezados, y la información en <tr> fácil y sencillo de aprender.
+
+<form> Actua como un contenedor de un formulario, en el cual el tipo de dato puede ser definido.
+<fieldset> Para organizarlo visualmente y lógico.
+<input> Recopila los datos según su tipo.
+<button> Actúa como botón.
+<textarea> Contenedor de grandes cantidades de texto.
+<label> Además de funcionar como un título leible también funciona por audio.
+==============================
+
+DOM tree Es el document object model, que es basicamente la representación de toda la estructura y el contenido del documento en la web.
+
+XML eXtensible Markup Lenguage es un formato que permite a los desarrolladores a crear documentos webs personalizados.
+
+XHTMl es similar a HTML pero con sintaxis más estrictas.
+
+WEB STORAGE APIs Permite almacenar datos de la web con las APIs.
+==============================
 
