@@ -1,4 +1,6 @@
-==============================
+==================================
+INTRODUCCIÓN A HTML, CSS Y JAVASCRIPT
+==================================
 1. HTML
 Es el lenguaje de internet.
 Es un lenguaje de marcado de hipertexto.
@@ -73,4 +75,27 @@ XHTMl es similar a HTML pero con sintaxis más estrictas.
 
 WEB STORAGE APIs Permite almacenar datos de la web con las APIs.
 ==============================
+Cheatsheet HTML5 Overview
+<!-- --> Para añadir un comentario de bloque.
+<!DOCTYPE html> Para indicar al navegador que es la last v.
+<a href="path"><a> Para añadir un link.
+<body></body> Para realizar el cuerpo del html.
+<div></div>Para realizar una división, secciones o caja.
+<h1></h1> Para encabezados de nivel 1.
+<head></head> Sirve de para contender los metadatos.
+<img src="path" width="" height=""> Para colocar una img.
+<li></li> Elemento de una lista.
+<link> Para anexar el documento de CSS.
+<meta> Para especificar datos sobre el documento HTML.
+<ol></ol> Para especificar una lista ordenada.
+<ul></ul> Para especificar una lista desordenada.
+<p></p> Para un comentario.
+<script></script> Para insertar código de JavaScript.
+<table></table> Para realizar el molde una tabla.
+<td></td> Para crear encabezados en las celdas por columna.
+<th></th> Para crear un molde de cada fila.
+<tr></tr> Para colocar información en las celdas por columna.
+<title></title> Para colocar un título a la página web.
+
+
 
